@@ -1,0 +1,56 @@
+{
+  "name": "volksaasfhir",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.2.2",
+    "fhir-react": "^0.1.2",
+    "fhir-smartr-redux": "0.0.54",
+    "fhirclient": "^2.3.10",
+    "node-sass": "^4.14.1",
+    "react": "^17.0.1",
+    "react-css-modules": "^4.7.11",
+    "react-cx": "^0.1.12",
+    "react-dom": "^17.0.1",
+    "react-intl": "^5.10.6",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "terra-aggregate-translations": "^1.11.0",
+    "terra-application": "^1.41.0",
+    "terra-base": "^5.41.0",
+    "terra-button": "^3.50.0",
+    "terra-card": "^3.36.0",
+    "terra-date-input": "^1.24.0",
+    "terra-form-input": "^4.8.0",
+    "terra-grid": "^6.25.0",
+    "terra-heading": "^4.39.0",
+    "terra-icon": "^3.38.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
